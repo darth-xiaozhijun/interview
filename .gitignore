@@ -1,0 +1,4 @@
+# Project exclude paths
+/algorithm/target/
+/design.pattern/target/
+/spring.study/target/
